@@ -13,5 +13,24 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Yves-T/ImagePicker.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/Yves-T/ImagePicker/issues"
+  },
+  "homepage": "https://github.com/Yves-T/ImagePicker#readme",
+  "cordova": {
+    "id": "cordova-plugin-telerik-imagepicker",
+    "platforms": [
+      "ios",
+      "android",
+      "browser"
+    ]
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ],
+  "author": ""
 }
